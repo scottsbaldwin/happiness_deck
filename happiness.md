@@ -16,10 +16,15 @@
 
 ![](./img/lincoln.jpg)
 ![](./img/astronaut.jpg)
-![](./img/steven_tyler.jpg)
 
 ^ Adults want you to say things like: doctor, lawyer, astronaut, scientist
 Kids think things like rock star, pro athlete
+
+---
+
+![](./img/jaco.jpg)
+![](./img/jordan.jpg)
+![](./img/dad_and_me.jpg)
 
 ---
 
@@ -33,22 +38,10 @@ https://www.youtube.com/watch?v=h11u3vtcpaY
 
 ---
 
-![original](./img/milky_way.jpg)
+![](./img/jefferson.jpg)
 
-> Happiness is the 
-> object and design of our existence.
--- Joseph Smith
-
----
-
-![](./img/eleanor_roosevelt.jpg)
-
-> Happiness is not a goal...
-> it's a by-product of a life well lived.
--- Eleanor Roosevelt
-
-^ Happiness is a THING!
-This seems to contradict the premise though. "Growing up" is a goal-oriented thing.
+> [We] are endowed by [our] Creator with certain unalienable Rights ... Life, Liberty and the pursuit of Happiness.
+-- Thomas Jefferson
 
 ---
 
@@ -70,6 +63,14 @@ This seems to contradict the premise though. "Growing up" is a goal-oriented thi
 
 ---
 
+![](./img/eleanor_roosevelt.jpg)
+
+> Happiness is not a goal...
+> it's a by-product of a life well lived.
+-- Eleanor Roosevelt
+
+---
+
 ### <br/><br/>our needs<br/> ![90%, inline](./img/maslow.png)
 
 ---
@@ -84,7 +85,11 @@ This seems to contradict the premise though. "Growing up" is a goal-oriented thi
 
 ---
 
-### ![30%, inline](./img/twitter.png) #devopsdays #chuffed 0..10
+## track _happiness_ (ditch velocity)
+
+![80%, inline](./img/happiness_chart.png)
+
+### ![20%, inline](./img/twitter.png) #devopsdays #chuffed 0..10
 
 ---
 
@@ -101,8 +106,8 @@ This seems to contradict the premise though. "Growing up" is a goal-oriented thi
 ![left, 80%](./img/change_triangle.png)
 ## do you need a change?
 
-###_Happiness_ is fleeting.
-###_Contentment_ is long-lasting.
+###_Happiness_ is fleeting
+###_Contentment_ is long-lasting
 
 ---
 
@@ -154,6 +159,19 @@ http://labs.spotify.com/2014/03/27/spotify-engineering-culture-part-1
 ^ organizations which design systems ... are constrained to produce designs which are copies of the communication structures of these organizations
 
 ---
+
+![original](./img/milky_way.jpg)
+
+> Happiness is the 
+> object and design of our existence.
+-- Joseph Smith
+
+^
+Shouldn't we say also say: Happiness is the object and design of our software and systems existence.
+
+---
+
+![](./img/eleven.jpg)
 
 ### ![30%, inline](./img/twitter.png) #devopsdays #chuffed 0..10
 
