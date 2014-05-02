@@ -81,7 +81,7 @@ https://www.youtube.com/watch?v=h11u3vtcpaY
 
 # <br/>_well chuffed!_
 
-<br/><br/><br/>![12%, inline](./img/twitter.png) #devopsdays #chuffed 0..10
+## bit.ly/wellchuffed
 
 ---
 
@@ -89,7 +89,7 @@ https://www.youtube.com/watch?v=h11u3vtcpaY
 
 ![70%, inline](./img/hangout_happiness.png)
 
-### ![20%, inline](./img/twitter.png) #devopsdays #chuffed 0..10
+### bit.ly/wellchuffed
 
 ---
 
@@ -173,11 +173,11 @@ Shouldn't we say also say: Happiness is the object and design of our software an
 
 ![](./img/eleven.jpg)
 
-### ![30%, inline](./img/twitter.png) #devopsdays #chuffed 0..10
-
-### bit.ly/dod-chuffed
+### bit.ly/wellchuffed
 
 ---
 
 # #hugs
 ### @scottsbaldwin
+#### ![8%,inline](./img/github.png) scottsbaldwin/happiness_poll
+#### ![8%,inline](./img/github.png) scottsbaldwin/hangout_happiness
