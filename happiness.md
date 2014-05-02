@@ -87,7 +87,7 @@ https://www.youtube.com/watch?v=h11u3vtcpaY
 
 ## track _happiness_ (ditch velocity)
 
-![80%, inline](./img/happiness_chart.png)
+![70%, inline](./img/hangout_happiness.png)
 
 ### ![20%, inline](./img/twitter.png) #devopsdays #chuffed 0..10
 
