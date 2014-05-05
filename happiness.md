@@ -45,7 +45,7 @@ https://www.youtube.com/watch?v=h11u3vtcpaY
 
 ---
 
-# happy people
+## happy people
 
 <!--
 + make good friends
@@ -75,13 +75,13 @@ https://www.youtube.com/watch?v=h11u3vtcpaY
 
 ---
 
-# are you feeling
+## are you feeling
 
 ![left](./img/chuffed_cat.jpg)
 
-# <br/>_well chuffed!_
+# _well chuffed!_
 
-## bit.ly/wellchuffed
+### bit.ly/wellchuffed
 
 ---
 
