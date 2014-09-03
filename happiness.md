@@ -1,24 +1,13 @@
 ![left](./img/joe_and_me.jpg)
 
-## what do you want to be<br/><br/>
+## when you were young,
+## what did you want to be<br/><br/>
 
 
-# when you _grow up_
+# when you _grew up_
 
-### <br/><br/>@scottsbaldwin
-
----
-
-# adults 
-## and their imaginations
-
-### **kids _think_ differently**
-
-![](./img/lincoln.jpg)
-![](./img/astronaut.jpg)
-
-^ Adults want you to say things like: doctor, lawyer, astronaut, scientist
-Kids think things like rock star, pro athlete
+### <br/><br/>Scott Baldwin
+####Chief Happiness Officer
 
 ---
 
@@ -38,6 +27,28 @@ https://www.youtube.com/watch?v=h11u3vtcpaY
 
 ---
 
+## answer this:
+
+### what matters most is
+### ________________
+
+---
+
+## my answer:
+
+### _what matters most is_
+
+### _what lasts the longest_
+
+![](./img/quincy.jpg)
+
+---
+
+## [fit] things that matter most 
+# [fit] make us happy
+
+---
+
 ![](./img/jefferson.jpg)
 
 > [We] are endowed by [our] Creator with certain unalienable Rights ... Life, Liberty and the pursuit of Happiness.
@@ -47,11 +58,15 @@ https://www.youtube.com/watch?v=h11u3vtcpaY
 
 # happy people
 
-<!--
-+ make good friends
-+ actively pursue goals
-+ do what you excel at as often as you can
--->
+### treat _people_ like people, not _objects_
+### do what they _excel_ at, often
+### actively _pursue_ goals
+### make _good_ friends
+
+
+---
+
+# happy people
 
 ### actively express _thank_fulness
 ### live the life _they_ want to live
@@ -65,49 +80,44 @@ https://www.youtube.com/watch?v=h11u3vtcpaY
 
 ![](./img/eleanor_roosevelt.jpg)
 
-> Happiness is not a goal...
-> it's a by-product of a life well lived.
+> Happiness is...
+> a by-product of a life well lived.
 -- Eleanor Roosevelt
 
 ---
 
-### <br/><br/>our needs<br/> ![90%, inline](./img/maslow.png)
-
----
-
-# are you feeling
+# so, are you feeling
 
 ![left](./img/chuffed_cat.jpg)
 
-# <br/>_well chuffed!_
-
-## bit.ly/wellchuffed
+# <br/>_well chuffed?_
 
 ---
 
-## track _happiness_ (ditch velocity)
+## track _happiness_
 
 ![70%, inline](./img/hangout_happiness.png)
 
-### bit.ly/wellchuffed
+### we ditched velocity
 
 ---
 
-![right](./img/adamhjk.jpg)
-## @adamhjk
+## team happiness
 
-### we spend 8+ hours
-### working each day--
-### more time than with the 
-### _**people we love the most!**_
+### Offers: _8.5_
+### Transparency: _8.5_
+### Mobile: _9_
+
+![left,200%](./img/happiness_gauge.png)
 
 ---
 
-![left, 80%](./img/change_triangle.png)
-## do you need a change?
+##_positivity_ + _eye contact_ =
+### [fit]biobehavioral synchrony
 
-###_Happiness_ is fleeting
-###_Contentment_ is long-lasting
+_**When positive emotions are shared and two people make eye contact, they move to the same hidden beat and start to act as one.**_
+
+![](./img/rolen+step.jpg)
 
 ---
 
@@ -124,6 +134,48 @@ https://www.youtube.com/watch?v=h11u3vtcpaY
 
 ---
 
+## negativity limits us
+
+- music with negative emotions
+- is this face male or female?
+- focused only on the task
+
+![left](./img/brain_imaging_01.png)
+
+---
+
+## positivity opens us
+
+- music with positive emotions
+- focus included more than the face
+- noticed background was rotating too
+
+![right](./img/brain_imaging_02.png)
+
+---
+
+# [fit]do it _now_
+## [fit]you can't will yourself
+### [fit]locate one of the _levers_ to turn it on
+
+---
+
+# draw yourself in
+
+- What makes me lucky/blessed to be here?
+- What's right about my circumstances?
+- What aspect of my current circumstances<br/>might I view as a gift to be treasured?
+
+---
+
+
+### _what matters most..._
+
+### _gifts to be treasured_
+
+![](./img/quincy.jpg)
+
+---
 
 ![](./img/mastery.jpg)
 ### autonomy, mastery, purpose
@@ -149,11 +201,10 @@ http://labs.spotify.com/2014/03/27/spotify-engineering-culture-part-1
 
 ---
 
-![left](./img/silos.jpg)
-![right](./img/happy_team.jpg)
+![](./img/happy_team.jpg)
 
 ## **_happier_**
-## people will produce _happier_ software
+## people will produce _happier_ products
 #### conway's law (adapted)
 
 ^ organizations which design systems ... are constrained to produce designs which are copies of the communication structures of these organizations
@@ -173,11 +224,4 @@ Shouldn't we say also say: Happiness is the object and design of our software an
 
 ![](./img/eleven.jpg)
 
-### bit.ly/wellchuffed
-
----
-
-# #hugs
-### @scottsbaldwin
-#### ![8%,inline](./img/github.png) scottsbaldwin/happiness_poll
-#### ![8%,inline](./img/github.png) scottsbaldwin/hangout_happiness
+### bit.ly/wmhappy
